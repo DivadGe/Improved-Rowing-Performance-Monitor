@@ -192,11 +192,11 @@ This chapter will go in to all the necessary steps to replicate the main device.
 
 | Item	| Description	| Link |
 |-------|:-----------:|------|
-| SBC	| OrangePi Zero 2 |	a.aliexpress.com/_EzkrPc9 |
-| GPS module |	Quectel L80-R |	a.aliexpress.com/_ExDRfdP |
-| Motion sensor |	MPU9250 |	a.aliexpress.com/_Eywt67R |
-| Enclosure	| 3D printed enclosure | |
-| Mount | 3D printed mount| |
+| SBC	| OrangePi Zero 2 |	[Aliexpress link](a.aliexpress.com/_EzkrPc9) |
+| GPS module |	Quectel L80-R |	[Aliexpress link](a.aliexpress.com/_ExDRfdP) |
+| Motion sensor |	MPU9250 |	[Aliexpress link](a.aliexpress.com/_Eywt67R) |
+| Enclosure	| 3D printed enclosure | [link](https://github.com/DivadGe/Improved-Rowing-Performance-Monitor/blob/main/3D-Models/OrangePi%20zero%202%20RowCoach%20Enclosure.stl)|
+| Mount | 3D printed mount| [link](https://github.com/DivadGe/Improved-Rowing-Performance-Monitor/blob/main/3D-Models/Mounting%20Mechanism.stl)|
 
 
 # Results
